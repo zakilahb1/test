@@ -1,10 +1,10 @@
 {
   "app_name": "7liwa",
   "interstitial_id": "ca-app-pub-3852250454111077/1465136198",
-  "interstitial_every_n_clicks": 5,
+  "interstitial_every_n_clicks": 15,
   "interstitial_every_n_minutes": 1,
   "native_id": "ca-app-pub-3852250454111077/1065946876",
-  "native_every_n_items": 5,
+  "native_every_n_items": 8,
   "native_first_ad_after_items": 2,
   "interstitial_muted": false,
   "interstitial_volume": 0.15

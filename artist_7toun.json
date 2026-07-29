@@ -1,0 +1,11 @@
+{
+  "app_name": "7toun",
+  "interstitial_id": "ca-app-pub-3852250454111077/4504101187",
+  "interstitial_every_n_clicks": 5,
+  "interstitial_every_n_minutes": 5,
+  "native_id": "ca-app-pub-3852250454111077/3191019514",
+  "native_every_n_items": 4,
+  "native_first_ad_after_items": 2,
+  "interstitial_muted": true,
+  "interstitial_volume": 0.15
+}
